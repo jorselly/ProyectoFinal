@@ -1,0 +1,20 @@
+{
+  "name": "proyectofinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorselly/ProyectoFinal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorselly/ProyectoFinal/issues"
+  },
+  "homepage": "https://github.com/jorselly/ProyectoFinal#readme"
+}
